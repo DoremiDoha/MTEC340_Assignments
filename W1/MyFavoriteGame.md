@@ -1,6 +1,6 @@
 <h2>DOHA's Favorite Game</h2>
 
-<img src="1.jpg" width="600" height="380" style="display: block; margin: 0 auto">
+<img src="1.jpg" width="600" height="380">
 
 - **Name:** NieR:Automata
 
