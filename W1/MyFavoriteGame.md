@@ -13,4 +13,6 @@
 	<p><img src="2.jpg" width="300" height="200">
 
 	2. [Drakengard 3](http://www.accessgames.co.jp/en/products/dod3.html)
+		<p><img src="3.jpg" width="300" height="200">
 	3. [Bayonetta](https://www.platinumgames.com/games/bayonetta)
+		<p><img src="4.jpg" width="300" height="200">
