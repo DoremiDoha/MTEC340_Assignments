@@ -9,7 +9,7 @@
 -  **Release date:**  February 23, 2017
 -  **Game Engine:** Unreal 5.1
 -  **A list of similar or related games**
-	1. 	[Metal Gear Rising](https://www.platinumgames.com/games/metal-gear-rising-revengeance) 
+	1. 	[Metal Gear Rising](https://www.platinumgames.com/games/metal-gear-rising-revengeance) (Platinum Games)
 		<p><img src="2.jpg" width="300" height="200">
 
 	2. [Drakengard 3](http://www.accessgames.co.jp/en/products/dod3.html)
